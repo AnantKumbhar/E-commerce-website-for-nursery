@@ -97,7 +97,7 @@
         var email=$('#email').val();
         var contact=$('#contact').val();
         var options = {
-    "key": "rzp_test_WRObkYKnVyZruu", // Enter the Key ID generated from the Dashboard
+    //"key": "", // Enter the Key ID generated from the Dashboard
     "amount": amount*100,
     "currency": "INR",
     "name":name,
